@@ -2,8 +2,7 @@
 - 👀 I’m interested in programing (quite new) and trying new stuff
 - 🌱 I’m currently learning ubuntu and ubuntu server
 - 💞️ I’m looking to collaborate on developing and creating servers
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: flash@ultimatecraft.nl or my discord: pro_miner14 
 - ⚡ Fun fact: ...
 
 <!---
