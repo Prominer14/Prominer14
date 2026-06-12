@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Prominer14
+- 👋 Hi, I’m @Prominer14 maybe also known as flash
 - 👀 I’m interested in programing (quite new) and trying new stuff
 - 🌱 I’m currently learning ubuntu and ubuntu server
 - 💞️ I’m looking to collaborate on developing and creating servers
 - 📫 How to reach me: flash@ultimatecraft.nl or my discord: pro_miner14 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I try to make an AI assistant "Hertog" 
 
 <!---
 Prominer14/Prominer14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
